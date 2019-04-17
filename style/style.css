@@ -15,8 +15,12 @@ body {
   font-size: 2rem;
 }
 
+.heading-1, .heading-2 , .heading-3, a {
+    color: #444;    
+}
+
 .heading-1,.job-title {
-  color: #fff;
+  color: #ccc;
 }
 
 
@@ -24,6 +28,7 @@ body {
   font-size: 1.1rem;
   position: relative;
   top: 0;
+  color: #444;
 }
 
 .links {
@@ -54,11 +59,18 @@ background-position: center;
     font-size: 0.8rem;
 }
 
-a {
-   color: #444; 
-}
+
 
 .social-media:hover, a:hover {
     text-decoration: none;
     color: #999;
+}
+
+#my-pic {
+  border-radius: 50%;
+  
+}
+
+#about p {
+    font-size: 1rem;
 }
