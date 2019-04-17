@@ -1,0 +1,44 @@
+body {
+  font-size: 62.5%;
+}
+
+.heading-1 {
+  font-size: 1.6rem;
+}
+
+.heading-2 {
+  font-size: 1.4rem;
+}
+
+.heading-3 {
+  font-size: 1.2rem;
+}
+
+.job-title {
+  font-size: 1.2rem;
+}
+
+.author {
+  font-size: 1.1rem;
+  position: relative;
+  top: 0;
+}
+
+.links {
+  font-size: 0.95rem;
+}
+
+.project-title {
+  font-size: 1rem;
+}
+
+.hero {
+  height: 400px;
+}
+
+.hero-img {
+height: 400px;
+}
+.content {
+
+}
